@@ -1,0 +1,25 @@
+{
+  "name": "electron",
+  "version": "1.0.0",
+  "description": "building an desktop application using electron",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/misall/electron.git"
+  },
+  "keywords": [
+    "electron",
+    "desktop",
+    "application",
+    "application"
+  ],
+  "author": "misall",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/misall/electron/issues"
+  },
+  "homepage": "https://github.com/misall/electron#readme"
+}
